@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: Personal website building for dummies (read: PhDs)
 ---
 
