@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal website building for dummies (read PhDs)
+title: Personal website building for dummies
 ---
 
 ## Skillz Hour - Mar.20 2018 - Personal website building for dummies (read: PhDs) 
