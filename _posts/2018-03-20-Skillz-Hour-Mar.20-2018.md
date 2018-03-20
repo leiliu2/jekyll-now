@@ -1,6 +1,11 @@
 ---
 published: false
 ---
+---
+layout: post
+title: Personal website building for dummies (read: PhDs)
+---
+
 ## Skillz Hour - Mar.20 2018</br>Personal website building for dummies (read: PhDs) 
 
 #### Outline
