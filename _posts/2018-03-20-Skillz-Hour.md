@@ -1,10 +1,10 @@
 ---
-published: true
+layout: post
 title: Personal website building for dummies (read: PhDs)
 ---
 
 
-## Skillz Hour - Mar.20 2018</br>Personal website building for dummies (read: PhDs) 
+## Skillz Hour - Mar.20 2018 - Personal website building for dummies (read: PhDs) 
 
 #### Outline
 1. What to include in a personal website
