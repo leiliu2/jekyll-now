@@ -84,7 +84,7 @@ b. notes
 
 a. github vs. SB You
 
-||Github|SB You|
+| |Github|SB You|
 |---|---|---|
 |pros|fully customizable|WYSIWYG|
 |cons|somewhat steep learning curve|not as geeky|
