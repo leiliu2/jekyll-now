@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Skillz Hour - Mar.20 2018</br>Personal website building for dummies (read: PhDs) 
 
