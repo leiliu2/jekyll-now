@@ -75,6 +75,11 @@ a. Steps
 - Log in
 - Play!
 
+b. notes
+
+- to add pages, go to **pages - add new**
+- to change homepage to __about__, go to **appearance - customize - static front page - front page**
+
 ### 3. Concluding remarks
 
 a. github vs. SB You
