@@ -1,5 +1,6 @@
 #### Instructor
 
+|-|-|
 |Fall 2018 | WAE 194 Advanced Writing Academic English|
 |Fall 2017 | WAE 194 Advanced Writing Academic English|
 |Spring 2017 | WAE 190 Intermediate Writing Academic English|
@@ -8,6 +9,7 @@
 
 #### Teaching assistant
 
+|-|-|
 |Spring 2018 | LIN 355 Language and Life in China |
 |Summer 2017 | Introduction to Semantics (NYI-XV in St. Petersburg, Russia) |
 |Fall 2016 | LIN 355 Language and Life in China |
