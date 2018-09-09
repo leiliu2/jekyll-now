@@ -6,4 +6,4 @@ published: true
 ---
 ![lei](https://res.cloudinary.com/czclmhb/image/upload/v1521513592/lei.jpg)
 
-I am a third-year Ph.D student interested in Syntax, Computational Linguistics and Chinese dialects. Currently, I am working on topic structure in Mandarin Chinese and Wh-scope in Mandarin and Korean. Additionally, I am studying scrambling and its relationship with other freedom of word-order phenomena in world languages.
+I am a forth-year Ph.D student interested in Syntax, Computational Linguistics and Chinese dialects. My interests lie in freedom of word orders. Finished projects on word order include Mandarin SOV derivation and Minimalist parsing of English heavy NP shift (HNPS). Currently, I am working on Japanese long-before-short word order and exploring its connections with HNPS in derivation and parsing. 
