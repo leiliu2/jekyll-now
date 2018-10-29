@@ -4,7 +4,7 @@
 
 #### Presentations
 
-- _Syntax and Prosody Interface of Wh-Scope in Mandarin._ So Young Lee, Lei Liu, Hongchen Wu and Jiwon Yun.  Poster @ SP9 (9th International Conference on Speech Prosody), Poznan, Poland. June 2018.
+- _Syntax and Prosody Interface of Wh-Scope in Mandarin._ So Young Lee, Lei Liu, Hongchen Wu and Jiwon Yun.  [Poster](https://github.com/leiliu2/leiliu2.github.io/blob/master/output/sp18_poster_pdf.pdf) @ SP9 (9th International Conference on Speech Prosody), Poznan, Poland. June 2018.
 
 - _The difference between perception and production of prosodic information in Chinese Wh-scope disambiguation._ So Young Lee, Hongchen Wu, Lei Liu and Jiwon Yun.  Poster @ PLC-42 (the 42nd Annual Penn Linguistics Conference), Philadelphia, PA, USA. May 2018
 
